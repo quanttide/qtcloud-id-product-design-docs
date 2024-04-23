@@ -4,4 +4,4 @@ parts:
 - caption: 产品特性
   chapters:
   - file: features/README.md
-  - file: uncategorized/README.md
+  - file: features/uncategorized/README.md
